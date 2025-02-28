@@ -33,4 +33,4 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/alperenec/shoppingCart-App
-   cd course-cart-app
+   cd shoppingCart-App
