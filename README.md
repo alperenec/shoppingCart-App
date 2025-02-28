@@ -3,6 +3,13 @@
 A modern, responsive React and Redux Toolkit application that simulates a course shopping cart. This project demonstrates efficient state management, component-driven architecture, and clean UI/UX principles.
 
 ---
+## Demo
+
+
+https://github.com/user-attachments/assets/cb8522c0-ea63-40c2-97dc-5afb6b37fecf
+
+
+---
 
 ## Features
 
@@ -16,13 +23,7 @@ A modern, responsive React and Redux Toolkit application that simulates a course
 - **Real-Time Calculations:** Automatic updates of total price and course count as cart items change.
 ---
 
-## Demo
 
-
-https://github.com/user-attachments/assets/cb8522c0-ea63-40c2-97dc-5afb6b37fecf
-
-
----
 
 ## Installation
 
